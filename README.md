@@ -4,6 +4,7 @@ This repository has been created to facilitate training upskilling and the syste
 
 Below is a propposed gantt chart displaying the propposed approach:
 
+```mermaid
 gantt
     title Project Gantt Chart
     dateFormat  YYYY-MM-DD
@@ -46,3 +47,4 @@ gantt
     Mock Quotation Exercise                :         c10, 2026-05-04, 2w
     Transition to Oversight-Only           :         c11, 2026-05-04, 2w
     Bi-Weekly Internal Reporting           :         c12, 2026-05-11, 1w
+```
